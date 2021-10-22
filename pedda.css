@@ -1,0 +1,16 @@
+.vishnu ul li{
+   color: red; padding-left: 20px;
+    display: inline-block;
+    list-style-type: none 
+    
+}
+.para{
+    background-color: coral;margin: 20px; padding-top: 20px;padding-bottom: 20px;
+
+}
+.footer{
+    font-size: larger; margin-left: 500px; background-color: cyan;width: 8%;
+}
+.imag{
+    width: 30%; margin-left: 200px;
+}
